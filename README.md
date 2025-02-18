@@ -8,21 +8,6 @@ This project implements Image Quantization and Spatial Resolution Modification f
 ✅ Save results in organized folders automatically.
 ✅ Generate detailed reports for analysis.
 
-📂 Project Structure:
-
-/project_directory
-│── image_quantization.py              # Quantization script
-│── spatial_resolution.py              # Spatial resolution script
-│── requirements.txt                   # Required dependencies
-│── Image_Quantization_Report.pdf      # Detailed report on image quantization
-│── Spatial_Resolution_Report.pdf      # Detailed report on spatial resolution
-│── results_quantization/              # Stores quantization outputs
-│── results_spatial/                    # Stores spatial resolution outputs
-│── barbara.bmp                         # Test image 1
-│── caman.tif                           # Test image 2
-│── Lena-Image.png                      # Test image 3
-└── README.md                           # Setup and execution guide
-
 🔧 Setup Instructions:
 
 1️⃣ Install Dependencies
